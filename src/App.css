@@ -38,7 +38,7 @@
 .App-menu-item{
   height: 98px;
   width: 100%;
-  border: darkblue 1px solid;
+  border : darkblue 1px solid;
   color: darkblue;
   display: flex;
   justify-content: center;
