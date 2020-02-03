@@ -32,6 +32,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -79,7 +80,7 @@
       <workItem from="1580603883873" duration="247000" />
       <workItem from="1580605198525" duration="18000" />
       <workItem from="1580741550983" duration="4256000" />
-      <workItem from="1580762751622" duration="242000" />
+      <workItem from="1580762751622" duration="461000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -179,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580756200847</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="responsive breakpoint added">
+      <created>1580763066818</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580763066818</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
