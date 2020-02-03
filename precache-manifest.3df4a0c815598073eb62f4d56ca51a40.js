@@ -1,7 +1,8 @@
+// eslint-disable-next-line no-restricted-globals
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0dd4c2c06daf4c44b59a06f932f850d5",
-    "url": "/react-pasv-project/index.html"
+    "url": `/react-pasv-project/index.html`
   },
   {
     "revision": "2e9430d83426c91a0628",
