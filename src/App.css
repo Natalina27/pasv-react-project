@@ -37,7 +37,7 @@
 }
 .App-menu-item{
   height: 98px;
-  width: 61px;
+  width: 100%;
   border: darkblue 1px solid;
   color: darkblue;
   display: flex;
@@ -80,8 +80,8 @@
     min-height:200px;
     display: flex;
     flex-direction: row;
-    /*align-items: flex-start;*/
-    /*justify-content: space-between;*/
+    align-items: flex-end;
+    justify-content: space-between;
     font-size: 20px;
     color: white;
   }
@@ -97,14 +97,15 @@
   .App-menu{
     display: flex;
     height: 200px;
-    width: 992px;
-    /*justify-content: space-between;*/
+    width: 100%;
+    justify-content: space-between;
+    align-content: flex-end;
     flex-direction: row;
     background-color: powderblue;
   }
   .App-menu-item{
     height: 196px;
-    width: 250px;
+    width: 100%;
     border: darkblue 2px solid;
     color: darkblue;
     display: flex;
