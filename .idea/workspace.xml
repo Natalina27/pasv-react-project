@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdc621e4-b709-43bb-8f80-324b7ed5d696" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +75,7 @@
       <workItem from="1580595697203" duration="7220000" />
       <workItem from="1580603883873" duration="247000" />
       <workItem from="1580605198525" duration="18000" />
+      <workItem from="1580741550983" duration="553000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -97,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580603369529</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added now.json file">
+      <created>1580741652174</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580741652174</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Header with styles" />
     <MESSAGE value="Content, Footer, Menu added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Content, Footer, Menu added" />
+    <MESSAGE value="added now.json file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added now.json file" />
   </component>
 </project>
