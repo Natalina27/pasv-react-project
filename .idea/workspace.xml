@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdc621e4-b709-43bb-8f80-324b7ed5d696" name="Default Changelist" comment="">
+    <list default="true" id="cdc621e4-b709-43bb-8f80-324b7ed5d696" name="Default Changelist" comment="some changes in package.json">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,7 +76,7 @@
       <workItem from="1580595697203" duration="7220000" />
       <workItem from="1580603883873" duration="247000" />
       <workItem from="1580605198525" duration="18000" />
-      <workItem from="1580741550983" duration="762000" />
+      <workItem from="1580741550983" duration="1560000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -112,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580742288303</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="package.json private false">
+      <created>1580742575348</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580742575348</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +144,8 @@
     <MESSAGE value="Content, Footer, Menu added" />
     <MESSAGE value="added now.json file" />
     <MESSAGE value="added idea in gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="added idea in gitignore" />
+    <MESSAGE value="package.json private false" />
+    <MESSAGE value="some changes in package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes in package.json" />
   </component>
 </project>
