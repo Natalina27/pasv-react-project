@@ -82,7 +82,7 @@
       <workItem from="1580761428433" duration="10000" />
       <workItem from="1580761445641" duration="54000" />
       <workItem from="1580762124385" duration="420000" />
-      <workItem from="1580766843079" duration="1589000" />
+      <workItem from="1580766843079" duration="2161000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -210,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580769278661</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary=".App menu width 100%">
+      <created>1580769547103</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580769547103</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
