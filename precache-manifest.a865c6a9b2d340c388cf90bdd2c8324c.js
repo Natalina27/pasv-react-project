@@ -1,12 +1,11 @@
-// eslint-disable-next-line no-restricted-globals
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0dd4c2c06daf4c44b59a06f932f850d5",
-    "url": `/react-pasv-project/index.html`
+    "revision": "ec06fe3f6cf78e34dcbb0d21a7987032",
+    "url": "/react-pasv-project/index.html"
   },
   {
-    "revision": "2e9430d83426c91a0628",
-    "url": "/react-pasv-project/static/css/main.980a0baa.chunk.css"
+    "revision": "8283190c589062b448aa",
+    "url": "/react-pasv-project/static/css/main.67bbe25d.chunk.css"
   },
   {
     "revision": "4c9d23639dea79ca2991",
@@ -17,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-pasv-project/static/js/2.cc6cf586.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e9430d83426c91a0628",
+    "revision": "8283190c589062b448aa",
     "url": "/react-pasv-project/static/js/main.3a5dd1a4.chunk.js"
   },
   {
