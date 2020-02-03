@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cdc621e4-b709-43bb-8f80-324b7ed5d696" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +82,7 @@
       <workItem from="1580595697203" duration="7220000" />
       <workItem from="1580603883873" duration="247000" />
       <workItem from="1580605198525" duration="18000" />
-      <workItem from="1580741550983" duration="2317000" />
+      <workItem from="1580741550983" duration="4256000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -139,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580743551726</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new branch develop added">
+      <created>1580744575215</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580744575215</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new branch develop added">
+      <created>1580747892997</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580747892997</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
