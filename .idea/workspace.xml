@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cdc621e4-b709-43bb-8f80-324b7ed5d696" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +72,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580595694112</updated>
-      <workItem from="1580595697203" duration="6590000" />
+      <workItem from="1580595697203" duration="7220000" />
+      <workItem from="1580603883873" duration="247000" />
+      <workItem from="1580605198525" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -91,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580602125911</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Content, Footer, Menu added">
+      <created>1580603369529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580603369529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +108,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -110,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Header with styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Header with styles" />
+    <MESSAGE value="Content, Footer, Menu added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Content, Footer, Menu added" />
   </component>
 </project>
