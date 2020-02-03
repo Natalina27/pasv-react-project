@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdc621e4-b709-43bb-8f80-324b7ed5d696" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,7 @@
       <workItem from="1580595697203" duration="7220000" />
       <workItem from="1580603883873" duration="247000" />
       <workItem from="1580605198525" duration="18000" />
-      <workItem from="1580741550983" duration="553000" />
+      <workItem from="1580741550983" duration="762000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580741652174</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added idea in gitignore">
+      <created>1580742288303</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580742288303</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +135,7 @@
     <MESSAGE value="Header with styles" />
     <MESSAGE value="Content, Footer, Menu added" />
     <MESSAGE value="added now.json file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added now.json file" />
+    <MESSAGE value="added idea in gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added idea in gitignore" />
   </component>
 </project>
