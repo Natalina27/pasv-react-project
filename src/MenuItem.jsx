@@ -3,9 +3,9 @@ import './App.css';
 
 function MenuItem() {
   return (
-    <div className="App-menu-item">
+    <a href="#" className="App-menu-item">
       MenuItem
-    </div>
+    </a>
   );
 }
 
