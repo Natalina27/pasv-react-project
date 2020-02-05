@@ -3,9 +3,9 @@ import './App.css';
 
 function Content() {
   return (
-    <div className="App-content">
+    <main className="App-content">
       Content
-    </div>
+    </main>
   );
 }
 

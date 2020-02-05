@@ -6,11 +6,11 @@ import HeaderBurger from "./HeaderBurger";
 
 function Header() {
   return (
-    <div className="App-header">
+    <header className="App-header">
      <Logo/>
      <Menu/>
      <HeaderBurger/>
-    </div>
+    </header>
   );
 }
 
