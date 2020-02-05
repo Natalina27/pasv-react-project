@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1edf3bc7a35ca16fe365217114eb4b8d",
+    "revision": "08128eb86e14bccc659b4f3f65bc1150",
     "url": "/react-pasv-project/index.html"
   },
   {
-    "revision": "8ad112b2800fc4060985",
-    "url": "/react-pasv-project/static/css/main.5760740b.chunk.css"
+    "revision": "36047121312248ec8277",
+    "url": "/react-pasv-project/static/css/main.d9008e17.chunk.css"
   },
   {
     "revision": "4c9d23639dea79ca2991",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-pasv-project/static/js/2.cc6cf586.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ad112b2800fc4060985",
+    "revision": "36047121312248ec8277",
     "url": "/react-pasv-project/static/js/main.9cfcf7f5.chunk.js"
   },
   {
