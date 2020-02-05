@@ -38,40 +38,20 @@
   background-color: powderblue;
   cursor: pointer
 }
-.Header__burger {
-  display: flex;
-  width: 100px;
-  align-items: self-end;
-  align-self: center;
-  flex-direction: column;
-  align-items: center;
-  margin: auto;
-}
 
-.Header__burger-line {
-  display: block;
-  width: 26px;
-  height: 3px;
-  background: powderblue;
-}
-
-.Header__burger-line:first-of-type {
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
 .App-menu-item{
   display: none;
 }
-/*.App-menu-item{*/
-/*  height: 98px;*/
-/*  width: 100%;*/
-/*  border : darkblue 1px solid;*/
-/*  color: darkblue;*/
-/*  display: flex;*/
-/*  justify-content: center;*/
-/*  align-items: center;*/
-/*  font-size: 10px;*/
-/*}*/
+.App-menu-item{
+  height: 98px;
+  width: 100%;
+  border : darkblue 1px solid;
+  color: darkblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10px;
+}
 .App-content{
   display: flex;
   height: 460px;

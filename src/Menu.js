@@ -5,12 +5,10 @@ import MenuItem from "./MenuItem";
 function Menu() {
   return (
       <nav className="App-menu">
-          <ul>
               <MenuItem/>
               <MenuItem/>
               <MenuItem/>
               <MenuItem/>
-          </ul>
       </nav>
   );
 }
