@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-pasv-project/static/css/main.d9008e17.chunk.css",
+    "main.css": "/react-pasv-project/static/css/main.d7c9a096.chunk.css",
     "main.js": "/react-pasv-project/static/js/main.9cfcf7f5.chunk.js",
     "main.js.map": "/react-pasv-project/static/js/main.9cfcf7f5.chunk.js.map",
     "runtime-main.js": "/react-pasv-project/static/js/runtime-main.1a47f85f.js",
@@ -8,16 +8,16 @@
     "static/js/2.cc6cf586.chunk.js": "/react-pasv-project/static/js/2.cc6cf586.chunk.js",
     "static/js/2.cc6cf586.chunk.js.map": "/react-pasv-project/static/js/2.cc6cf586.chunk.js.map",
     "index.html": "/react-pasv-project/index.html",
-    "precache-manifest.f4dfa552782e4fb3273f876bde19978f.js": "/react-pasv-project/precache-manifest.f4dfa552782e4fb3273f876bde19978f.js",
+    "precache-manifest.0f26e1b0796c74cf78eb6d1efaf982bd.js": "/react-pasv-project/precache-manifest.0f26e1b0796c74cf78eb6d1efaf982bd.js",
     "service-worker.js": "/react-pasv-project/service-worker.js",
-    "static/css/main.d9008e17.chunk.css.map": "/react-pasv-project/static/css/main.d9008e17.chunk.css.map",
+    "static/css/main.d7c9a096.chunk.css.map": "/react-pasv-project/static/css/main.d7c9a096.chunk.css.map",
     "static/js/2.cc6cf586.chunk.js.LICENSE.txt": "/react-pasv-project/static/js/2.cc6cf586.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/react-pasv-project/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1a47f85f.js",
     "static/js/2.cc6cf586.chunk.js",
-    "static/css/main.d9008e17.chunk.css",
+    "static/css/main.d7c9a096.chunk.css",
     "static/js/main.9cfcf7f5.chunk.js"
   ]
 }
