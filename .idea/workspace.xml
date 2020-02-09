@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +87,7 @@
       <workItem from="1580914110553" duration="2741000" />
       <workItem from="1580937018394" duration="1918000" />
       <workItem from="1581181550626" duration="5151000" />
-      <workItem from="1581260158983" duration="11676000" />
+      <workItem from="1581260158983" duration="11900000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -320,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581277586911</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="responsive css added">
+      <created>1581286578931</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1581286578931</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,6 +380,7 @@
     <MESSAGE value="added 2 footer menu lists with copyright" />
     <MESSAGE value="added array of objects and map method" />
     <MESSAGE value=" array of objects transfered in App" />
-    <option name="LAST_COMMIT_MESSAGE" value=" array of objects transfered in App" />
+    <MESSAGE value="responsive css added" />
+    <option name="LAST_COMMIT_MESSAGE" value="responsive css added" />
   </component>
 </project>
