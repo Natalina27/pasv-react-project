@@ -3,28 +3,28 @@ import React from 'react';
 import MenuItem from "./MenuItem";
 
 function Menu() {
-    // const text1 = 'Home';
-    // const link1 = 'home-page';
 
-    // const items = [{
-    //     text: 'Home',
-    //     link: 'home-page'
-    // },{
-    //     text: 'Products',
-    //     link: 'goods'
-    // }
+    const items = [{
+        text: 'Home',
+        link: 'home-page'
+    },{
+        text: 'Products',
+        link: 'goods-page'
+    },{
+        text: 'Services',
+        link: 'service-page'
+    },{
+        text: 'Prices',
+        link: 'price-page'
+
+        },{
+            text: 'Contacts',
+            link: 'cont-page'
+    }];
+
   return (
       <nav className="App-menu">
-              {/*<MenuItem text={text1} link={link1} />*/}
-          {/*<MenuItem text='Products' link='goods'/>*/}
-          {/*    <MenuItem memuItem={items[0]}/>*/}
-          {/*    <MenuItem memuItem={items[1]}/>*/}
-          {/*    <MenuItem text='Service' link='service'/>*/}
-          {/*    <MenuItem text='Contacts' link='contact'/>*/}
-          <MenuItem text='Home' link='home-page' />
-          <MenuItem text='Products' link='goods' />
-          <MenuItem text='Service' link='service' />
-          <MenuItem text='Contacts' link='contact' />
+          {items.map(el => <MenuItem key={el.text} menuItem={el}  />)}
       </nav>
   );
 }

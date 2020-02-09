@@ -92,7 +92,8 @@
       <workItem from="1580828479801" duration="2774000" />
       <workItem from="1580914110553" duration="2741000" />
       <workItem from="1580937018394" duration="1918000" />
-      <workItem from="1581181550626" duration="4997000" />
+      <workItem from="1581181550626" duration="5151000" />
+      <workItem from="1581260158983" duration="3423000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -297,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580939256500</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="added 2 footer menu lists with copyright">
+      <created>1581256427064</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1581256427064</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,6 +362,7 @@
     <MESSAGE value="changed tags by symanthic" />
     <MESSAGE value="changed js on jsx" />
     <MESSAGE value="new deploy" />
-    <option name="LAST_COMMIT_MESSAGE" value="new deploy" />
+    <MESSAGE value="added 2 footer menu lists with copyright" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 2 footer menu lists with copyright" />
   </component>
 </project>

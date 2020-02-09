@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Logo from "./Logo";
-import MenuItem from "./MenuItem";
+import Menu from "./Menu";
 
 function Footer() {
   return (
@@ -10,17 +10,14 @@ function Footer() {
             <Logo/>
         </div>
         <div className="Footer-menu">
-            <MenuItem text='Home' link='home-page' />
-            <MenuItem text='Products' link='goods' />
-            <MenuItem text='Service' link='service' />
-            <MenuItem text='Contacts' link='contact' />
+            < Menu />
         </div>
-        <div className="Footer-menu">
-            <MenuItem />
-            <MenuItem />
-            <MenuItem />
-            <MenuItem />
-        </div>
+        {/*<div className="Footer-menu">*/}
+        {/*    <MenuItem />*/}
+        {/*    <MenuItem />*/}
+        {/*    <MenuItem />*/}
+        {/*    <MenuItem />*/}
+        {/*</div>*/}
         <div className="Footer-paragraph">
            Copyright
         </div>

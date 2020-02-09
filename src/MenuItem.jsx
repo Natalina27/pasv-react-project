@@ -5,9 +5,10 @@ function MenuItem(props) {
     console.log(props);
 
   return (
-    <a href={props.link} className="App-menu-item">
-      {props.text}
-    </a>
+      <div className="App-menu-item">
+          <a href={props.menuItem.link} >{props.menuItem.text}</a>
+      </div>
+
   );
 }
 
