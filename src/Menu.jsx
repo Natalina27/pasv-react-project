@@ -2,29 +2,13 @@ import React from 'react';
 // import './App.css';
 import MenuItem from "./MenuItem";
 
-function Menu() {
+function Menu(props) {
 
-    const items = [{
-        text: 'Home',
-        link: 'home-page'
-    },{
-        text: 'Products',
-        link: 'goods-page'
-    },{
-        text: 'Services',
-        link: 'service-page'
-    },{
-        text: 'Prices',
-        link: 'price-page'
-
-        },{
-            text: 'Contacts',
-            link: 'cont-page'
-    }];
+    console.log(props);
 
   return (
       <nav className="App-menu">
-          {items.map(el => <MenuItem key={el.text} menuItem={el}  />)}
+          {props.items.map(el => <MenuItem key={el.text} menuItem={el} />)}
       </nav>
   );
 }

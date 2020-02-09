@@ -3,11 +3,13 @@ import './App.css';
 import Logo from "./Logo";
 import Menu from "./Menu";
 
-function Header() {
+function Header(props) {
+
+
   return (
     <header className="App-header">
         <Logo/>
-        <Menu/>
+        <Menu  items={props.menuItems}/>
     </header>
   );
 }
