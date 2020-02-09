@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
 
-function MenuItem() {
+function MenuItem(props) {
+    console.log(props);
+
   return (
-    <a href="#" className="App-menu-item">
-      MenuItem
+    <a href={props.link} className="App-menu-item">
+      {props.text}
     </a>
   );
 }
