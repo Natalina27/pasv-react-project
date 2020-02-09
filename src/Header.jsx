@@ -8,8 +8,10 @@ function Header(props) {
 
   return (
     <header className="App-header">
-        <Logo/>
-        <Menu  items={props.menuItems}/>
+        <div className="App-logo">
+            <Logo/>
+        </div>
+        <Menu  mItem={props.mainMenuItems}/>
     </header>
   );
 }

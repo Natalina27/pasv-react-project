@@ -5,7 +5,7 @@ import Footer from "./Footer";
 import Content from "./Content";
 
 function App() {
-    const items = [{
+    const mainMenu = [{
         text: 'Home',
         link: 'home-page'
     },{
@@ -17,16 +17,31 @@ function App() {
     },{
         text: 'Prices',
         link: 'price-page'
-
     },{
         text: 'Contacts',
         link: 'cont-page'
     }];
+    const footerMenu =[{
+        text: 'Menu1',
+        link: 'menu1'
+    },{
+        text: 'Menu2',
+        link: 'menu2'
+    },{
+        text: 'Menu3',
+        link: 'menu3'
+    },{
+        text: 'Menu4',
+        link: 'menu4'
+    },{
+        text: 'Menu5',
+        link: 'menu5'
+    }];
   return (
     <div className="App">
-      <Header menuItems={items} />
+      <Header mainMenuItems={mainMenu} />
       <Content/>
-      <Footer menuItems={items} />
+      <Footer mainMenuItems={mainMenu} footerMenuItems={footerMenu} />
     </div>
   );
 }

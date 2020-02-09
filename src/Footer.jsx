@@ -10,10 +10,15 @@ function Footer(props) {
             <Logo/>
         </div>
         <div className="Footer-menu">
-            < Menu items={props.menuItems} />
+        <div className="Footer-menu1">
+            < Menu mItem={props.mainMenuItems} />
+        </div>
+        <div className="Footer-menu2">
+            < Menu mItem={props.footerMenuItems} />
         </div>
         <div className="Footer-paragraph">
-           Copyright
+           <p> @Copyright</p>
+        </div>
         </div>
     </footer>
   );

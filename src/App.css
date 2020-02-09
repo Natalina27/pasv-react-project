@@ -20,8 +20,8 @@
 }
 .App-logo {
   pointer-events: none;
-  height: 100px;
-  width: 100px;
+  height: 75px;
+  width: 75px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -31,8 +31,8 @@
 .App-menu{
   display: flex;
   height: 100px;
-  /*width: 100px;*/
-  /*justify-content: space-between;*/
+  width: 300px;
+  justify-content: space-between;
   flex-direction: row;
   align-self: flex-end;
   background-color: powderblue;
@@ -40,9 +40,9 @@
 }
 
 .App-menu-item{
-  /*height: 98px;*/
+  height: 98px;
   width: 100%;
-  border : darkblue 1px solid;
+  /*border : darkblue 1px solid;*/
   color: darkblue;
   display: flex;
   justify-content: center;
@@ -52,7 +52,7 @@
 }
 .App-content{
   display: flex;
-  height: 400px;
+  height: 500px;
   background: steelblue;
   color: #61dafb;
   justify-content: center;
@@ -62,25 +62,35 @@
 }
 .App-footer{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   flex-direction: row;
-  /*height: 100px;*/
+  height: 100px;
   background-color: darkblue;
 }
 .Footer-paragraph{
-  width: 175px;
+  width: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 10px;
-  color: #61dafb;
+  font-size: 7px;
+  color: darkblue;
 }
-.Footer-menu nav {
+.Footer-menu{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: powderblue;
+    justify-content: space-evenly;
+}
+.Footer-menu1 nav,
+.Footer-menu2 nav{
   display: flex;
   flex-direction: column;
-  /*height: 100px;*/
-  width: 300px;
-  background-color: powderblue;
+  height: 100px;
+  width: 100px;
+    align-items: center;
+
   /*border: darkred 2px solid;*/
 }
 
@@ -117,19 +127,19 @@
     height: 200px;
     width: 100%;
     justify-content: space-between;
-    align-content: flex-end;
+    /*align-content: flex-end;*/
     flex-direction: row;
     background-color: powderblue;
   }
   .App-menu-item{
     height: 196px;
     width: 100%;
-    border: darkblue 2px solid;
+    /*border: darkblue 2px solid;*/
     color: darkblue;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 30px;
+    font-size: 20px;
   }
   .App-content{
     display: flex;
@@ -140,33 +150,39 @@
     align-items: center;
     font-size: 100px;
   }
-  .App-footer{
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    height: 200px;
-    background-color: darkblue;
-  }
-  .Footer-paragraph{
-    width: 500px;
-    display: flex;
-    align-items: center;
-    font-size: 30px;
-    color: #61dafb;
-  }
-  .Footer-menu nav {
-    display: flex;
-    flex-direction: column;
-    /*height: 100px;*/
-    width: 500px;
-    background-color: powderblue;
-    font-size: 20px;
-    flex-wrap: unset;
+    .App-footer{
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: row;
+        height: 200px;
+        background-color: darkblue;
+    }
+    .Footer-paragraph{
+        width: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 10px;
+        color: darkblue;
+    }
+    .Footer-menu{
+        height: 200px;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        background-color: powderblue;
+        justify-content: space-around;
+    }
+    .Footer-menu1 nav,
+    .Footer-menu2 nav{
+        display: flex;
+        flex-direction: column;
+        height: 200px;
+        width: 200px;
+        align-items: center;
 
-  }
-  .Footer-menu nav a{
-    height: 30px;
-  }
+        /*border: darkred 2px solid;*/
+    }
 }
 @keyframes App-logo-spin {
   from {

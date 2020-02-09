@@ -8,8 +8,9 @@ function Menu(props) {
 
   return (
       <nav className="App-menu">
-          {props.items.map(el => <MenuItem key={el.text} menuItem={el} />)}
+          {props.mItem.map(el => <MenuItem key={el.text} menuItem={el} />)}
       </nav>
+
   );
 }
 
