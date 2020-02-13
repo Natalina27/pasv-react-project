@@ -93,7 +93,23 @@
 
   /*border: darkred 2px solid;*/
 }
-
+.Input-button{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 600px;
+  height: 50px;
+}
+input{
+  width: 700px;
+  font-size: x-large;
+}
+button{
+  border: darkblue 3px solid;
+  color: darkblue;
+  width: 100px;
+  cursor: pointer;
+}
 
 
 @media (min-width: 992px) {
@@ -183,6 +199,11 @@
 
         /*border: darkred 2px solid;*/
     }
+}
+.Input-button{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 @keyframes App-logo-spin {
   from {

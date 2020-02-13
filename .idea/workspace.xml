@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MenuItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuItem.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +95,8 @@
       <workItem from="1581181550626" duration="5151000" />
       <workItem from="1581260158983" duration="12203000" />
       <workItem from="1581380347042" duration="511000" />
-      <workItem from="1581536964087" duration="613000" />
+      <workItem from="1581536964087" duration="643000" />
+      <workItem from="1581617156898" duration="2301000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -332,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581344373644</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="added function clickButton in content">
+      <created>1581538093978</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1581538093978</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,6 +404,7 @@
     <MESSAGE value="added array of objects and map method" />
     <MESSAGE value=" array of objects transfered in App" />
     <MESSAGE value="responsive css added" />
-    <option name="LAST_COMMIT_MESSAGE" value="responsive css added" />
+    <MESSAGE value="added function clickButton in content" />
+    <option name="LAST_COMMIT_MESSAGE" value="added function clickButton in content" />
   </component>
 </project>

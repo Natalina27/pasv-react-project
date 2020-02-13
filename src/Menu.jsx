@@ -4,7 +4,7 @@ import MenuItem from "./MenuItem";
 
 function Menu(props) {
 
-    console.log(props);
+    // console.log(props);
 
   return (
       <nav className="App-menu">
