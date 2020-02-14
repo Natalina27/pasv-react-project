@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="added functions clickButtonHandler and inputHandler in content" />
+    <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="added functions clickButtonHandler and inputHandler in content">
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +94,7 @@
       <workItem from="1581536964087" duration="643000" />
       <workItem from="1581617156898" duration="2651000" />
       <workItem from="1581687315128" duration="1016000" />
-      <workItem from="1581701320832" duration="1659000" />
+      <workItem from="1581701320832" duration="1905000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
