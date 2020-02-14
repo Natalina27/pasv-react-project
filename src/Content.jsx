@@ -15,6 +15,7 @@ function Content() {
     <main className="App-content">
       <h3> First App</h3>
         <div className="Input-button">
+            <div className="Input-button__text">Initial: </div>
             <input type="text"
                    placeholder='             Input here your text !     '
                     onChange={inputHandler}/>

@@ -111,6 +111,12 @@ button{
   cursor: pointer;
   font-size: xx-small;
 }
+.Input-button__text{
+  font-size: 20px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
 
 
 @media (min-width: 992px) {
@@ -218,6 +224,12 @@ button{
     color: darkblue;
     width: 100px;
     cursor: pointer;
+  }
+  .Input-button__text{
+    font-size: 40px;
+    height: 50px;
+    display: flex;
+    align-items: center;
   }
 }
 

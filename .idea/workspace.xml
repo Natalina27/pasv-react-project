@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="">
+    <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="added functions clickButtonHandler and inputHandler in content">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +95,8 @@
       <workItem from="1581380347042" duration="511000" />
       <workItem from="1581536964087" duration="643000" />
       <workItem from="1581617156898" duration="2651000" />
-      <workItem from="1581687315128" duration="562000" />
+      <workItem from="1581687315128" duration="1016000" />
+      <workItem from="1581701320832" duration="1385000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
