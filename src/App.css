@@ -76,7 +76,7 @@
   color: darkblue;
 }
 .Footer-menu{
-    height: 100px;
+    height: 80px;
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -87,7 +87,7 @@
 .Footer-menu2 nav{
   display: flex;
   flex-direction: column;
-  height: 90px;
+  height: 80px;
   width: 100px;
   align-items: center;
 
