@@ -97,18 +97,19 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 600px;
+  width: 300px;
   height: 50px;
 }
 input{
-  width: 700px;
-  font-size: x-large;
+  width: 300px;
+  font-size: small;
 }
 button{
-  border: darkblue 3px solid;
+  border: darkblue 1px solid;
   color: darkblue;
-  width: 100px;
+  width: 50px;
   cursor: pointer;
+  font-size: xx-small;
 }
 
 
@@ -199,12 +200,27 @@ button{
 
         /*border: darkred 2px solid;*/
     }
+
+
+  .Input-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 600px;
+    height: 50px;
+  }
+  input{
+    width: 700px;
+    font-size: x-large;
+  }
+  button{
+    border: darkblue 3px solid;
+    color: darkblue;
+    width: 100px;
+    cursor: pointer;
+  }
 }
-.Input-button{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
