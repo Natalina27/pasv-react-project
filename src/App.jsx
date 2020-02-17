@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import './index.css';
 import Header from "./Header";
 import Footer from "./Footer";
 import Content from "./Content";
@@ -37,10 +38,17 @@ function App() {
         text: 'Menu5',
         link: 'menu5'
     }];
+    
+    function buttonClicked() {
+        console.log('CLICKED !!!!');
+    }
+    
+    
+    
   return (
     <div className="App">
       <Header mainMenuItems={mainMenu} />
-      <Content/>
+      <Content bc = {buttonClicked}/>
       <Footer mainMenuItems={mainMenu} footerMenuItems={footerMenu} />
     </div>
   );
