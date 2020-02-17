@@ -99,7 +99,7 @@
       <workItem from="1581687315128" duration="1016000" />
       <workItem from="1581701320832" duration="3318000" />
       <workItem from="1581722725434" duration="27000" />
-      <workItem from="1581923150249" duration="3851000" />
+      <workItem from="1581923150249" duration="5269000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -367,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581961592235</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="created buttonClicked() function in parent component App for child component Content">
+      <created>1581966153804</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1581966153804</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,6 +438,7 @@
     <MESSAGE value="added function clickButton in content" />
     <MESSAGE value="added functions clickButtonHandler and inputHandler in content" />
     <MESSAGE value="moved all styles in index.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved all styles in index.css" />
+    <MESSAGE value="created buttonClicked() function in parent component App for child component Content" />
+    <option name="LAST_COMMIT_MESSAGE" value="created buttonClicked() function in parent component App for child component Content" />
   </component>
 </project>

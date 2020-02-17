@@ -39,8 +39,8 @@ function App() {
         link: 'menu5'
     }];
     
-    function buttonClicked() {
-        console.log('CLICKED !!!!');
+    function buttonClicked( name ) {
+        console.log('CLICKED !!!!' + name);
     }
     
     
@@ -48,7 +48,7 @@ function App() {
   return (
     <div className="App">
       <Header mainMenuItems={mainMenu} />
-      <Content bc = {buttonClicked}/>
+      <Content bc={buttonClicked}/>
       <Footer mainMenuItems={mainMenu} footerMenuItems={footerMenu} />
     </div>
   );

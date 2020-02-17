@@ -2,11 +2,13 @@ import React from 'react';
 import './App.css';
 import './index.css';
 
-function Content() {
+function Content(props) {
+
 
     let name = 'Initial  ';
 
     const clickButtonHandler = () => {
+        props.bc(name);
         console.log('Clicked!  ' + name );
     };
 
