@@ -4,6 +4,7 @@ import './index.css';
 import Header from "./Header";
 import Footer from "./Footer";
 import Content from "./Content";
+import State from "./State";
 
 function App() {
     const mainMenu = [{
@@ -49,6 +50,8 @@ function App() {
     <div className="App">
       <Header mainMenuItems={mainMenu} />
       <Content bc={buttonClicked}/>
+        <hr/>
+      <State />
       <Footer mainMenuItems={mainMenu} footerMenuItems={footerMenu} />
     </div>
   );

@@ -1,0 +1,15 @@
+.state-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.pm-button{
+    font-size: 40px;
+}
+
+.count-variable{
+    width: 50px;
+}
