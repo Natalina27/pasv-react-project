@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/State.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
     </list>
@@ -101,7 +99,8 @@
       <workItem from="1581701320832" duration="3318000" />
       <workItem from="1581722725434" duration="27000" />
       <workItem from="1581923150249" duration="5946000" />
-      <workItem from="1582068166403" duration="2487000" />
+      <workItem from="1582068166403" duration="2533000" />
+      <workItem from="1582221347750" duration="198000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -383,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581973123904</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="added State.jsx and State.css">
+      <created>1582140806276</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1582140806279</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,6 +455,7 @@
     <MESSAGE value="moved all styles in index.css" />
     <MESSAGE value="created buttonClicked() function in parent component App for child component Content" />
     <MESSAGE value="props passed to Content component and function invoked there" />
-    <option name="LAST_COMMIT_MESSAGE" value="props passed to Content component and function invoked there" />
+    <MESSAGE value="added State.jsx and State.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="added State.jsx and State.css" />
   </component>
 </project>

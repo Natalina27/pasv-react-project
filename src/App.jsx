@@ -50,8 +50,9 @@ function App() {
     <div className="App">
       <Header mainMenuItems={mainMenu} />
       <Content bc={buttonClicked}/>
-        <hr/>
-      <State />
+        <State />
+         <hr/>
+        <State />
       <Footer mainMenuItems={mainMenu} footerMenuItems={footerMenu} />
     </div>
   );
