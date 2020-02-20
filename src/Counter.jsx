@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
-import './State.css';
+import './Counter.css';
 import './index.css';
 
-function State(props) {
+function Counter(props) {
     const [count, setCount] = useState(3);
 
     const countChangeMinusHandler = () => {
@@ -25,4 +25,4 @@ function State(props) {
   );
 }
 
-export default State;
+export default Counter;

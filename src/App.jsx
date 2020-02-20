@@ -4,7 +4,7 @@ import './index.css';
 import Header from "./Header";
 import Footer from "./Footer";
 // import Content from "./Content";
-import State from "./State";
+import Counter from "./Counter";
 
 function App() {
     const mainMenu = [{
@@ -55,9 +55,9 @@ function App() {
           <Header mainMenuItems={mainMenu} />
           {/*<Content bc={buttonClicked}/>*/}
           Total: {totalCount}
-            <State  countChange={countChange}/>
+            <Counter countChange={countChange}/>
              <hr/>
-            <State countChange={countChange}/>
+            <Counter countChange={countChange}/>
           <Footer mainMenuItems={mainMenu} footerMenuItems={footerMenu} />
         </div>
   );
