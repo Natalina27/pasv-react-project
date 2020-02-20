@@ -1,9 +1,9 @@
-import React from 'react';
+import React, {useState} from 'react';
 import './App.css';
 import './index.css';
 import Header from "./Header";
 import Footer from "./Footer";
-import Content from "./Content";
+// import Content from "./Content";
 import State from "./State";
 
 function App() {
@@ -39,26 +39,27 @@ function App() {
         text: 'Menu5',
         link: 'menu5'
     }];
-    
-    function buttonClicked( name ) {
-        console.log('CLICKED !!!!' + name);
-    }
 
-    function countChange(value) {
+    // function buttonClicked( name ) {
+    //     console.log('CLICKED !!!!' + name);
+    // }
+
+    const [totalCount, setTotalCount] = useState(0);
+
+    function countChange(value){
         console.log('changed !!!' + value);
+        setTotalCount(value);
     }
-    
-    
-    
-  return (
-    <div className="App">
-      <Header mainMenuItems={mainMenu} />
-      <Content bc={buttonClicked}/>
-        <State  countChange={countChange}/>
-         <hr/>
-        <State countChange={countChange}/>
-      <Footer mainMenuItems={mainMenu} footerMenuItems={footerMenu} />
-    </div>
+    return (
+        <div className="App">
+          <Header mainMenuItems={mainMenu} />
+          {/*<Content bc={buttonClicked}/>*/}
+          Total: {totalCount}
+            <State  countChange={countChange}/>
+             <hr/>
+            <State countChange={countChange}/>
+          <Footer mainMenuItems={mainMenu} footerMenuItems={footerMenu} />
+        </div>
   );
 }
 
