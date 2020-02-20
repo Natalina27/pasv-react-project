@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,7 +99,7 @@
       <workItem from="1581722725434" duration="27000" />
       <workItem from="1581923150249" duration="5946000" />
       <workItem from="1582068166403" duration="2533000" />
-      <workItem from="1582221347750" duration="198000" />
+      <workItem from="1582221347750" duration="715000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -389,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582140806279</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="added another State component for demonstrate  their independence">
+      <created>1582222131571</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1582222131571</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,7 +437,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Header with styles" />
     <MESSAGE value="Content, Footer, Menu added" />
     <MESSAGE value="added now.json file" />
     <MESSAGE value="added idea in gitignore" />
@@ -456,6 +461,19 @@
     <MESSAGE value="created buttonClicked() function in parent component App for child component Content" />
     <MESSAGE value="props passed to Content component and function invoked there" />
     <MESSAGE value="added State.jsx and State.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="added State.jsx and State.css" />
+    <MESSAGE value="added another State component for demonstrate  their independence" />
+    <option name="LAST_COMMIT_MESSAGE" value="added another State component for demonstrate  their independence" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.jsx</url>
+          <line>27</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -43,6 +43,10 @@ function App() {
     function buttonClicked( name ) {
         console.log('CLICKED !!!!' + name);
     }
+
+    function countChange(value) {
+        console.log('changed !!!' + value);
+    }
     
     
     
@@ -50,9 +54,9 @@ function App() {
     <div className="App">
       <Header mainMenuItems={mainMenu} />
       <Content bc={buttonClicked}/>
-        <State />
+        <State  countChange={countChange}/>
          <hr/>
-        <State />
+        <State countChange={countChange}/>
       <Footer mainMenuItems={mainMenu} footerMenuItems={footerMenu} />
     </div>
   );
