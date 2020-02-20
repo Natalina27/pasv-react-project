@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/State.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/State.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +99,7 @@
       <workItem from="1581722725434" duration="27000" />
       <workItem from="1581923150249" duration="5946000" />
       <workItem from="1582068166403" duration="2533000" />
-      <workItem from="1582221347750" duration="715000" />
+      <workItem from="1582221347750" duration="1092000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -395,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582222131571</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="added countChange function in App component">
+      <created>1582223359087</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1582223359087</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,7 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Content, Footer, Menu added" />
     <MESSAGE value="added now.json file" />
     <MESSAGE value="added idea in gitignore" />
     <MESSAGE value="package.json private false" />
@@ -462,7 +468,8 @@
     <MESSAGE value="props passed to Content component and function invoked there" />
     <MESSAGE value="added State.jsx and State.css" />
     <MESSAGE value="added another State component for demonstrate  their independence" />
-    <option name="LAST_COMMIT_MESSAGE" value="added another State component for demonstrate  their independence" />
+    <MESSAGE value="added countChange function in App component" />
+    <option name="LAST_COMMIT_MESSAGE" value="added countChange function in App component" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
