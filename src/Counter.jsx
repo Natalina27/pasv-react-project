@@ -3,16 +3,16 @@ import './Counter.css';
 import './index.css';
 
 function Counter(props) {
-    const [count, setCount] = useState(3);
+    const [count, setCount] = useState(props.startCounter);
 
     const countChangeMinusHandler = () => {
         setCount(count - 1);
-        props.countChange(count - 1);
+        props.sum( - 1);
     };
 
     const countChangePlusHandler = () => {
         setCount(count + 1);
-        props.countChange(count + 1);
+        props.sum(1);
     };
 
     return (

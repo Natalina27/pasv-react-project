@@ -6,6 +6,9 @@ import Footer from "./Footer";
 // import Content from "./Content";
 import Counter from "./Counter";
 
+const c1 = 2, c2 = 5;
+const tc = c1 + c2;
+
 function App() {
     const mainMenu = [{
         text: 'Home',
@@ -44,7 +47,8 @@ function App() {
     //     console.log('CLICKED !!!!' + name);
     // }
 
-    const [totalCount, setTotalCount] = useState(0);
+    const [totalCounter, setTotalCount] = useState(tc);
+    const sum = value => setTotalCount(value + totalCounter);
 
     function countChange(value){
         console.log('changed !!!' + value);
@@ -54,10 +58,10 @@ function App() {
         <div className="App">
           <Header mainMenuItems={mainMenu} />
           {/*<Content bc={buttonClicked}/>*/}
-          Total: {totalCount}
-            <Counter countChange={countChange}/>
+          Total: {totalCounter}
+            <Counter startCounter={c1}  sum={sum} countChange={countChange}/>
              <hr/>
-            <Counter countChange={countChange}/>
+            <Counter startCounter={c2} sum={sum} countChange={countChange}/>
           <Footer mainMenuItems={mainMenu} footerMenuItems={footerMenu} />
         </div>
   );
