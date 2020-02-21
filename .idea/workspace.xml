@@ -4,7 +4,6 @@
     <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +100,7 @@
       <workItem from="1581722725434" duration="27000" />
       <workItem from="1581923150249" duration="5946000" />
       <workItem from="1582068166403" duration="2533000" />
-      <workItem from="1582221347750" duration="4984000" />
+      <workItem from="1582221347750" duration="5493000" />
     </task>
     <task id="LOCAL-00001" summary="Header with styles">
       <created>1580602008008</created>
@@ -425,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582224861199</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="total counter">
+      <created>1582241326955</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1582241326955</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,7 +473,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="package.json private false" />
     <MESSAGE value="some changes in package.json" />
     <MESSAGE value="new branch develop added" />
     <MESSAGE value="responsive breakpoint added" />
@@ -492,7 +497,8 @@
     <MESSAGE value="added countChange function in App component" />
     <MESSAGE value="added props.countChange function in State component" />
     <MESSAGE value="refactor State component to Counter" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor State component to Counter" />
+    <MESSAGE value="total counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="total counter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
