@@ -3,7 +3,7 @@ import './App.css';
 import './index.css';
 import Header from "./Header";
 import Footer from "./Footer";
-// import Content from "./Content";
+ import Content from "./Content";
 import Counter from "./Counter";
 
 const c1 = 2, c2 = 5;
@@ -43,9 +43,9 @@ function App() {
         link: 'menu5'
     }];
 
-    // function buttonClicked( name ) {
-    //     console.log('CLICKED !!!!' + name);
-    // }
+    function buttonClicked( name ) {
+        console.log('CLICKED !!!!' + name);
+    }
 
     const [totalCounter, setTotalCount] = useState(tc);
     const sum = value => setTotalCount(value + totalCounter);
@@ -57,7 +57,7 @@ function App() {
     return (
         <div className="App">
           <Header mainMenuItems={mainMenu} />
-          {/*<Content bc={buttonClicked}/>*/}
+          <Content bc={buttonClicked}/>
           Total: {totalCounter}
             <Counter startCounter={c1}  sum={sum} countChange={countChange}/>
              <hr/>
