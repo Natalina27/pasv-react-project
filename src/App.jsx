@@ -1,10 +1,9 @@
 import React, {useState} from 'react';
-import './App.css';
-import './index.css';
 import Header from "./Header";
 import Footer from "./Footer";
- import Content from "./Content";
-import Counter from "./Counter";
+import Content from "./Content";
+import Counter from "./components/Counter/Counter";
+import './index.css'
 
 const c1 = 2, c2 = 5;
 const tc = c1 + c2;

@@ -1,6 +1,5 @@
 import React from 'react';
-import './App.css';
-import './index.css';
+import './index.css'
 
 function Content(props) {
 

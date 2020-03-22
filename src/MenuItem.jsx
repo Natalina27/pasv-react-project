@@ -1,5 +1,6 @@
 import React from 'react';
-import './App.css';
+import './App';
+import './index.css';
 
 function MenuItem(props) {
     // console.log(props);

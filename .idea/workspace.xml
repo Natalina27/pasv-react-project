@@ -2,14 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc442f4a-bdae-4efc-ac54-706a657d31ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Counter/Count.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Counter/Counter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MenuItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/logo.5d5d9eef.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/media/logo.5d5d9eef.svg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -25,6 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,6 +60,13 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Counter" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/static/media" />
+      <recent name="$PROJECT_DIR$/src/components/Logo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -102,7 +131,7 @@
       <workItem from="1582068166403" duration="2533000" />
       <workItem from="1582221347750" duration="6060000" />
       <workItem from="1583599389427" duration="34000" />
-      <workItem from="1584811151407" duration="793000" />
+      <workItem from="1584811151407" duration="6245000" />
     </task>
     <task id="LOCAL-00002" summary="Header with styles">
       <created>1580602125911</created>
@@ -515,16 +544,5 @@
     <MESSAGE value="refactor State component to Counter" />
     <MESSAGE value="total counter" />
     <option name="LAST_COMMIT_MESSAGE" value="total counter" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/App.jsx</url>
-          <line>30</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

@@ -1,7 +1,9 @@
 import React from 'react';
-import './App.css';
-import Logo from "./Logo";
+import './App';
 import Menu from "./Menu";
+import './index.css'
+import Logo from "./Logo";
+
 
 function Footer(props) {
   return (

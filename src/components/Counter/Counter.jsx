@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
-import './Counter.css';
-import './index.css';
+import './Counter';
+import './Count.css';
+// import './index.css';
 
 function Counter(props) {
     const [count, setCount] = useState(props.startCounter);
@@ -20,7 +21,6 @@ function Counter(props) {
         <button onClick={countChangeMinusHandler} className="pm-button">-</button>
         <div className="count-variable">{count}</div>
         <button onClick={countChangePlusHandler} className="pm-button">+</button>
-
     </div>
   );
 }
